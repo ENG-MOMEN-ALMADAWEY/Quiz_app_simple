@@ -14,8 +14,11 @@ ___frist project  using flutter widgets
 
 ## without 
 -quiz timer
+
 -dark mode
--
+
+-image for every quiz answer
+
 
 ##---------widgets --------##
 -StatefulWidget
